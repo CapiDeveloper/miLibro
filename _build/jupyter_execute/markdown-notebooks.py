@@ -26,8 +26,3 @@
 #     <div><img src="https://media.istockphoto.com/photos/top-view-asian-ux-developer-and-ui-designer-brainstorming-about-app-picture-id1218511457?b=1&k=20&m=1218511457&s=612x612&w=0&h=VZ4UOZtqnu8HpM3Yj08G_GbvyukbV5OdQ-jGRn5SCzE=" /></div>
 #     
 # </div>
-# 
-# 
-# ```
-# jupyter-book myst init path/to/markdownfile.md
-# ```

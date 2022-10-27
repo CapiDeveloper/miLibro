@@ -40,6 +40,3 @@ kernelspec:
 </div>
 
 
-```
-jupyter-book myst init path/to/markdownfile.md
-```
